@@ -1,0 +1,32 @@
+p {
+	font-size: 20px;
+	color: pink;
+}
+
+header {
+	font-size: 40px;
+	color: yellow;
+	background-color: red;
+	font-family: arial;
+	font-style: italic;
+	padding: 20px;
+}
+
+button {
+	background-color: red;
+}
+
+footer {
+	background-color: red;
+	color: white;
+	padding: 10px;
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+}
+
+h2 {
+	font-size: 15px;
+}
+
+/* Note section */
