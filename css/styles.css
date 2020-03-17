@@ -29,4 +29,14 @@ h2 {
 	font-size: 15px;
 }
 
+.corner {
+	text-align: center;
+	padding-top: 20px;
+}
+
+.imageblock {
+	width: 100%;
+	height: auto;
+	padding: 10px;
+}
 /* Note section */
